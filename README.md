@@ -18,7 +18,7 @@ JuNest Logo
     <a href="https://github.com/fsquillace/junest"><img
         alt="JuNest"
         width=300px
-        src="https://rawgit.com/fsquillace/junest-logo/master/junest.svg"></a>
+        src="https://cdn.rawgit.com/fsquillace/junest-logo/master/junest.svg"></a>
 </h1>
 
 
